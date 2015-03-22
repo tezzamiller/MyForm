@@ -1,4 +1,4 @@
-<?php namespace tezzamiller\my-form;
+<?php namespace tezzamiller\myform;
 
 class MyForm {
 
