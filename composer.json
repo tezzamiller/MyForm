@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-        "tezzamiller\\my-form\\": "src"
+        "tezzamiller\\myform\\": "src"
         }
     },
     "minimum-stability": "stable"
